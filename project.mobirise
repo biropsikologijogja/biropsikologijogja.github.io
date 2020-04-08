@@ -48,7 +48,7 @@
     "favicon": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "uniqCompNum": 24,
+    "uniqCompNum": 25,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png"
   },
@@ -728,19 +728,16 @@
           "_styles": {
             "padding-top": "(@paddingTop * 15px)",
             "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor",
-            "blockquote": {
-              "border-color": "@lineColor"
-            }
+            "background-color": "@bgColor"
           },
-          "_name": "content10",
-          "_customHTML": "<section class=\"content10 mbr-section article\" plugins=\"amp-main\" group=\"Article\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#767676\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    <div class=\"container\">\n        <div class=\"mbr-row mbr-jc-c\">\n            <div class=\"mbr-text mbr-fonts-style mbr-col-sm-12 mbr-col-md-8\" mbr-theme-style=\"display-4\" data-multiline mbr-article>\n                <blockquote>Biro Psikologi Jogja Laksita Educare merupakan lembaga psikologi terapan di wilayah Daerah Istimewa Yogyakarta. Tim profesional yang terdiri dari para Psikolog Jogja yang telah mempunyai surat ijin praktek berupa SIPP dari HIMPSI juga di bantu oleh para assisten psikolog juga beberapa tenaga ahli yang berpengalaman pada bidang psikologi, administrasi dan human resource management.\n</blockquote><blockquote>Sebagai sebuah Lembaga Psikologi Jogja yang sudah begitu lama melayani, Biro Psikologi Laksita Educare Yogyakarta telah banyak mendapatkan kepercayaan dalam menangani konseling individual, konseling kelompok, konseling psikolog pernikahan dan rumah tangga, konseling industri, psikotes pendidikan, psikotes industri, workshop, seminar, parenting, outbound, pendampingan individual dan berbagai jenis terapi psikologi termasuk juga di dalamnya terapi tumbuh kembang anak.  \n</blockquote><blockquote>Psikolog Jogja dan Konselor beserta segenap tim Biro Psikologi Jogja Laksita Educare di Yogyakarta senantiasa berusaha agar mampu memberikan pelayanan psikologi terbaik juga berkualitas namun dengan biaya murah. Karena kami selalu berharap agar layanan psikologi di lembaga kami bisa didapatkan dengan harga terjangkau oleh seluruh kalangan yang membutuhkannya. Beberapa layanan yang telah dikemas oleh Konselor serta Psikolog Jogja terbaik beserta tim psikologi di Biro Psikologi Jogja Laksita Educare diantaranya adalah :</blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "rVxmWTfnIj",
-          "_anchor": "content10-l",
+          "_name": "content2",
+          "_customHTML": "<section class=\"content2 mbr-section article\" plugins=\"amp-main\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-row mbr-jc-c\">\n            <div class=\"mbr-col-sm-12 mbr-col-md-10 mbr-col-lg-8\">\n                <h3 class=\"mbr-fonts-style mbr-section-title mbr-light mbr-py-1\" mbr-if=\"showTitle\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-title\">\n                    Free Website Builder\n                </h3>\n                <p class=\"mbr-text mbr-fonts-style mbr-py-1\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>Biro Psikologi Jogja Laksita Educare merupakan lembaga psikologi terapan di wilayah Daerah Istimewa Yogyakarta. Tim profesional yang terdiri dari para Psikolog Jogja yang telah mempunyai surat ijin praktek berupa SIPP dari HIMPSI juga di bantu oleh para assisten psikolog juga beberapa tenaga ahli yang berpengalaman pada bidang psikologi, administrasi dan human resource management.\n<br>Sebagai sebuah Lembaga Psikologi Jogja yang sudah begitu lama melayani, Biro Psikologi Laksita Educare Yogyakarta telah banyak mendapatkan kepercayaan dalam menangani konseling individual, konseling kelompok, konseling psikolog pernikahan dan rumah tangga, konseling industri, psikotes pendidikan, psikotes industri, workshop, seminar, parenting, outbound, pendampingan individual dan berbagai jenis terapi psikologi termasuk juga di dalamnya terapi tumbuh kembang anak.\n<br>Psikolog Jogja dan Konselor beserta segenap tim Biro Psikologi Jogja Laksita Educare di Yogyakarta senantiasa berusaha agar mampu memberikan pelayanan psikologi terbaik juga berkualitas namun dengan biaya murah. Karena kami selalu berharap agar layanan psikologi di lembaga kami bisa didapatkan dengan harga terjangkau oleh seluruh kalangan yang membutuhkannya. Beberapa layanan yang telah dikemas oleh Konselor serta Psikolog Jogja terbaik beserta tim psikologi di Biro Psikologi Jogja Laksita Educare diantaranya adalah :</p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "rVxqZpwFwB",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {}
+          "_params": {},
+          "_anchor": "content2-o"
         },
         {
           "alias": false,
